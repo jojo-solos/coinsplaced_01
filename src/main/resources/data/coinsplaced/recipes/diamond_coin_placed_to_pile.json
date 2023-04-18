@@ -1,0 +1,12 @@
+{
+  "type" : "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item" : "coinsplaced:diamond_coin_pile_placed"
+    }
+  ],
+  "result" : {
+    "item" : "coinsje:diamond_coin_pile",
+    "count" : 9
+  }
+}

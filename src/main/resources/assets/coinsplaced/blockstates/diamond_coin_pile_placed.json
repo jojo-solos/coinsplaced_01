@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model" :  "coinsplaced:block/diamond_coin_pile_placed"
+    },
+    "facing=south": {
+      "model" :  "coinsplaced:block/diamond_coin_pile_placed",
+      "y" : 180
+    },
+    "facing=west": {
+      "model" :  "coinsplaced:block/diamond_coin_pile_placed",
+      "y" : 270
+    },
+    "facing=east": {
+      "model" :  "coinsplaced:block/diamond_coin_pile_placed",
+      "y" : 90
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type" : "minecraft:crafting_shaped",
+  "category" : "building",
+  "key": {
+    "#" : {
+      "item" : "coinsje:gold_coin_pile"
+    }
+  },
+  "pattern" : [
+    "###",
+    "###",
+    "###"
+  ],
+  "result" : {
+    "item" : "coinsplaced:gold_coin_pile_placed"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "coinsplaced:netherite_coin_pile_placed",
+    "coinsplaced:diamond_coin_pile_placed",
+    "coinsplaced:gold_coin_pile_placed"
+  ]
+}

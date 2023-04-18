@@ -1,0 +1,12 @@
+{
+  "type" : "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item" : "coinsplaced:netherite_coin_pile_placed"
+    }
+  ],
+  "result" : {
+    "item" : "coinsje:netherite_coin_pile",
+    "count" : 9
+  }
+}
